@@ -1,3 +1,5 @@
+<img width="1600" height="967" alt="image" src="https://github.com/user-attachments/assets/5ac72840-4cb5-4df5-aa36-c69d42f078ee" />
+
 # Rewards Program React Demo
 
 A simple React JS demo app that calculates customer reward points from purchase transactions.
